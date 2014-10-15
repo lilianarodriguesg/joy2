@@ -1,14 +1,21 @@
 #bt1{
+
+font-size:30px;
+cursor:pointer;
 background-color:red;
 width: 100px;
 height:100px;
 float:left;
+line-height:100px;
 }
 #bt2{
+font-size:30px;
+cursor:pointer;
 background-color:blue;
 width:100px;
 height:100px;
 float:right;
+line-height:100px;
 }
 #boneco{
 position:absolute;
@@ -31,4 +38,23 @@ height:400px;
 margin:0 auto;
 position:relative;
 border:1px solid red;
+}
+
+#bt3{
+font-size:30px;
+cursor:pointer;
+background-color:green;
+width:100px;
+height:100px;
+float:left;
+line-height:100px;
+}
+#bt4{
+font-size:30px;
+cursor:pointer;
+background-color:black;
+width:100px;
+height:100px;
+float:right;
+line-height:100px;
 }
